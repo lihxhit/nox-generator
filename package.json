@@ -1,0 +1,22 @@
+{
+  "name": "nox-generator",
+  "version": "0.0.1",
+  "description": "nox代码生成器",
+  "main": "./bin/cli.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lihxhit/nox-generator.git"
+  },
+  "keywords": [
+    "generator"
+  ],
+  "author": "lihxhit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lihxhit/nox-generator/issues"
+  },
+  "homepage": "https://github.com/lihxhit/nox-generator#readme"
+}
